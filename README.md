@@ -1,6 +1,7 @@
 # Rocket-wagon
 
 <img src = "./images/Rocket-wagon-picture.png" width="50%">
+<img src = "./images/IMG_1151.jpeg" width="50%">
 
 # Rocket-wagon
 This respository contains the STL files to 3D print and construct a 1:16 scale, 3.5" gauge railway wagon.  The wagon is based on the Hornby 3.5" gauge Stephenson's Rocket model tender, without the water barrel or coal load, and including an enclosed front side.
